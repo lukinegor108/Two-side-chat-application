@@ -1,6 +1,7 @@
 # Two-side-chat-application
 Terrible made and terrible working programm for chating in terminal(first steps in c-sockets).
 THIS APPLICATION IS NOT WELL MADE. YOU SHOULD NOT USE IT FOR YOUR CHATTING.
+I've applied my knowledge from the "Hands-on with networking in C" by Lewis Van Winkle
 I hope, that I'll post some well made chat applications later. 
 
 Compilation:
