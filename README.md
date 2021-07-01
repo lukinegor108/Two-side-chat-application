@@ -1,5 +1,7 @@
 # Two-side-chat-application
 
+Asynchronous chatroom for two pepople only.
+
 Compilation:
 The server and client are made for Unix-based, Windows and Mac operating systems. I tried to use the server on Ubuntu and clients on Ubuntu and Mac OS X, it was working. You can chek it on Windows and give some reply.
 
