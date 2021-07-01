@@ -3,7 +3,7 @@
 Compilation:
 The server and client are made for Unix-based, Windows and Mac operating systems. I tried to use the server on Ubuntu and clients on Ubuntu and Mac OS X, it was working. You can chek it on Windows and give some reply.
 
-gcc -o client client.c -lpthread
+gcc -o client client.c -lpthread  
 gcc -o server server.c -lpthread
 
 Usage:
